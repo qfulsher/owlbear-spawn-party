@@ -1,4 +1,4 @@
-import OBR, { ContextMenuContext, ImageContent, ImageGrid, TextContent, buildImage, Image as OBRImage, ToolContext, Metadata } from "@owlbear-rodeo/sdk";
+import OBR, { ContextMenuContext, ImageContent, ImageGrid, TextContent, buildImage, Image as OBRImage, Metadata } from "@owlbear-rodeo/sdk";
 
 const ID = "com.tool.owlbearSpawnParty";
 const roomMetadataKey = `${ID}/metadata`;
